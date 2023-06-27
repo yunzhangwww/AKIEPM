@@ -1,6 +1,6 @@
 # AKIEPM
 AKIEPM version 0.9.0 <br>
-AKIEPM can be used to predict the outcomes of AKI inpatients in 24h, 48h, 72h and 7d.
+AKIEPM can be used to predict the outcomes of AKI inpatients in 24h, 48h, 72h and 7d. You can train the model separately for different times to make prediction.
 This tool is for research purpose and not approved for clinical use.
 
 Dependencies
